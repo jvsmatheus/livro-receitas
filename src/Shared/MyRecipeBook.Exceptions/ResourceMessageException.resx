@@ -129,4 +129,7 @@
   <data name="SHORT_PASSWORD" xml:space="preserve">
     <value>Password must be at least 6 characters </value>
   </data>
+  <data name="UNKNOWN_ERROR" xml:space="preserve">
+    <value>Unknown error</value>
+  </data>
 </root>
